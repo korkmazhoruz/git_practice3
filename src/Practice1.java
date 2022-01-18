@@ -2,8 +2,10 @@ public class Practice1 {
 
     public static void main(String[] args) {
 
-        String word = "Korkmaz";
+        //Step 1
+        //step 2
+        //Step 3
+    }
 
 
     }
-}
